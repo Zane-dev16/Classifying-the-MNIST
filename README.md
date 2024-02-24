@@ -35,3 +35,13 @@ To get started with the project, follow these steps:
    git clone https://github.com/Zane-dev16/Classifying-the-MNIST.git
    cd Classifying-the-MNIST
    ```
+
+2. Explore the Jupyter notebooks in the notebooks/ directory to understand each step of the machine learning pipeline.
+
+## Bibligraphy
+
+Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media.
+
+## Acknowledgements
+
+MNIST dataset: http://yann.lecun.com/exdb/mnist/
