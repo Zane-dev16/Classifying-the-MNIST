@@ -44,4 +44,4 @@ Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras, and Tenso
 
 ## Acknowledgements
 
-MNIST dataset: http://yann.lecun.com/exdb/mnist/
+Deng, L. (2012). The mnist database of handwritten digit images for machine learning research. IEEE Signal Processing Magazine, 29(6), 141–142.
